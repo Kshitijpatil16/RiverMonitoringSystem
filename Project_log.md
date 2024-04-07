@@ -1,6 +1,6 @@
 # River Monitoring System Project Log
 
-#### Phase -1: ESP32, Sensors, LoRaWAN Publisher
+### Phase -1: ESP32, Sensors, LoRaWAN Publisher
 
 `7/04/24`
 **K -** Hey team, today's progress report:
@@ -20,6 +20,8 @@ The issues I figured out were:
 - For the OLED display, I had to use the *u8g2 library* and `U8G2_SH1106_128X64_NONAME_F_SW_I2C` object.
 
 Rest all was the same as you are imagining right now! Following this process, we can easily display both the readings on the OLED display.
+
+![image](https://github.com/Kshitijpatil16/RiverMonitoringSystem/assets/104309685/95fd7b61-b315-46d5-85a0-d834433a2cb1)
 
 Cheers
 
